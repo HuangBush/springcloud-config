@@ -18,7 +18,7 @@ spring:
       enabled: true
       force: true
   mvc:
-    date-format: yyyy-MM-dd
+    date-format: yyyy/MM/dd
 
 #开启断路器
 feign:
